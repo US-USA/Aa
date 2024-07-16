@@ -1,0 +1,30 @@
+{
+  "John": {
+    "name": "John the Baptist",
+    "role": "Prophet",
+    "relationship": "Cousin of Jesus",
+    "message": "Prepare the way for the Lord",
+    "baptism": "Baptized Jesus in the Jordan River"
+  },
+  "Jesus": {
+    "name": "Jesus Christ",
+    "role": "Savior",
+    "birth": "Born in Bethlehem",
+    "teachings": [
+      "Love your neighbor as yourself",
+      "Turn the other cheek",
+      "Blessed are the peacemakers",
+      "The Kingdom of God is at hand"
+    ],
+    "miracles": [
+      "Turning water into wine",
+      "Healing the sick",
+      "Feeding the multitudes",
+      "Walking on water",
+      "Raising the dead"
+    ],
+    "crucifixion": "Crucified on the cross",
+    "resurrection": "Rose from the dead on the third day",
+    "message": "I am the way, the truth, and the life"
+  }
+}
